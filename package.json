@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon server.js",
-    "studio": "npx prisma studio"
+    "studio": "npx prisma studio",
+    "start": "node server.js"
   },
   "keywords": [
     "nodejs",
